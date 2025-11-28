@@ -13,7 +13,9 @@
       <ul>
         <li>
           <strong>Email:</strong>
-          <a href="mailto: aaronferrerbarbas@gmail.com">aaronferrerbarbas@gmail.com</a>
+          <a href="mailto:aaronferrerbarbas@gmail.com"> 
+            aaronferrerbarbas@gmail.com
+          </a>
         </li>
         <li>
           <strong>LinkedIn:</strong>
